@@ -1,0 +1,58 @@
+# Android generated
+bin/
+gen/
+obj/
+
+# Ant
+# build.xml
+local.properties
+lint.xml
+
+# Maven
+target/
+pom.xml.*
+release.properties
+
+# Eclipse
+.externalToolBuilders/
+.settings
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+# Mac
+.DS_Store
+
+# svn
+.svn
+
+# vim
+*.swp
+
+# proguard
+proguard
+
+# Gradle
+.gradle
+build
+build/
+.idea
+gradlew
+gradlew.bat
+
+volley
+apptimize
+maindexlist.txt
+maindexlist-debug.txt
+aura.json
+aura-provided.json
+deeplinkMain.json
+deeplink.json
+amonApiMain.json
+auraBundles
+
+amonConfig.txt
